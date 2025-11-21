@@ -148,3 +148,4 @@ forms.monday.com
 wkf.ms
 fernandessolucionesweb.com
 ricardornunes.com
+angular.neanusto.sa.com
