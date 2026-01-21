@@ -160,3 +160,4 @@ div.hosojea.sa.com
 booklng.mgmntss-appsec.com
 
 integralsm.cl
+2fa.valoufroo.in.net
