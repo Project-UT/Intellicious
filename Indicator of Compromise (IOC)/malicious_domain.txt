@@ -144,7 +144,6 @@ db.zucrootrea.ru.com
 www.bavariansafaris.com
 www.moroccancam.com
 moroccancam.com
-wkf.ms
 fernandessolucionesweb.com
 ricardornunes.com
 angular.neanusto.sa.com
@@ -156,8 +155,6 @@ codecov.louneca.in.net
 orion.rs
 login.visluna.com
 cerkery.com
-
 bustoosteajai.cyou
 div.hosojea.sa.com
-booklng.mgmntss-appsec.com
 booklng.mgmntss-appsec.com
