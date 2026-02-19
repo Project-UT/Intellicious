@@ -181,3 +181,5 @@ xerecanega.ddns.net
 cvawrs.duckdns.org
 go0g1e.oss-cn-hongkong.aliyuncs.com
 secure.logmein.com
+
+api.skycloudcenter.com
