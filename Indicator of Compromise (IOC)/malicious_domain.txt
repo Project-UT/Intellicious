@@ -186,3 +186,4 @@ api.skycloudcenter.com
 api.wiresguard.com
 abwxjp5.me
 brackusi0n.live
+dog3rj.tech
