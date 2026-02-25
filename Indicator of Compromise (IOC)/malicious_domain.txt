@@ -193,3 +193,4 @@ msonline.help
 pickupweb.me
 pr0fu5a.me
 q74vn.live
+servgate.me
