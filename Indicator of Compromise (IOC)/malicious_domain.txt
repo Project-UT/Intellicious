@@ -181,7 +181,6 @@ xerecanega.ddns.net
 cvawrs.duckdns.org
 go0g1e.oss-cn-hongkong.aliyuncs.com
 secure.logmein.com
-
 api.skycloudcenter.com
 api.wiresguard.com
 abwxjp5.me
@@ -197,3 +196,4 @@ servgate.me
 zamstats.me
 zrheblirsy.me
 channel.treayafio.dev
+channel.treayafio.dev/
