@@ -201,3 +201,5 @@ ondigitalocean.app
 concord.rmm.datto.com
 oast.pro
 oast.fun
+
+scan.aquasecurtiy.org
