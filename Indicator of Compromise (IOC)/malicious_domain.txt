@@ -214,3 +214,5 @@ uamapi-prod.apps.non-core-prod.sterlingbank.com
 enf-fe-pilot.apps.non-core-prod.sterlingbank.com
 sterlingbankng.com
 trial-6857053.okta.com
+
+thortit.com
