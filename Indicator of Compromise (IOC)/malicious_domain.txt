@@ -252,3 +252,4 @@ ootid.srv-auth-dlt-msh.in.net
 www.badischwaendi.ch
 ip-info.ff.avast.com
 download2324.mediafire.com
+mc.yandex.ru
